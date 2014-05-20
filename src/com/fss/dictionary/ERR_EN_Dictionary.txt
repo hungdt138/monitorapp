@@ -1,0 +1,31 @@
+{FileNotFoundException}==File not found: <%p>
+{ClassNotFoundException}==Class not found: <%p>
+{NoSuchMethodException}==Function not found: <%p>
+{Unspecified}==Unspecified error occurred
+FSS-00001==You must enter at least one criteria to search
+FSS-00002==Value of field <%p> can not be empty
+FSS-00003==Value of field <%p> must be greater or equals to value of field <%p>
+FSS-00004==Value of field <%p> is invalid
+FSS-00005==Default system's data can not be changed
+FSS-00006==Invalid user password
+FSS-00007==Confirm password does not equals to new password
+FSS-00008==Value of field <%p> mus be a number
+FSS-00009==Data not found in table <%p>.
+FSS-00010==Duplicate records found
+FSS-00011==This record have already been exist in database
+FSS-00012==Data of <%p> were not found in database
+FSS-00013==You are not allowed to access at this time
+FSS-00014==You don't have right <%p> on function <%p>
+FSS-00015==You are not allowed to perform this function at this time
+FSS-00016==User is deactivated or does not exist
+FSS-00017==Module name does not exist
+FSS-00018==Sequence <%p> does not exist
+FSS-00019==Maximum connection exceeded, please try again within some minutes
+FSS-00020==You must login to server
+FSS-00021==Thread <%p> does not exist
+FSS-00022==IP address <%p> does not have right to access system.
+FSS-10003==Your password has been expired, you have to change it in order to use system.
+FSS-10012==Password can not be empty.
+FSS-10013==Password must containt at least <%p> character.
+FSS-10014==New password can not be same as old password.
+FSS-10015==Authentication module is not installed, only system user is allowed to loggin.

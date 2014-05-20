@@ -1,0 +1,7 @@
+DBUrl=jdbc:oracle:thin:@203.128.246.84:1521:DBTST
+UserName=crm_owner
+Password=crm_owner
+PortID=1309
+DatabaseExist=N
+MaxConnectionAllowed=3
+LoadingMethod=File

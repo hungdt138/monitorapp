@@ -1,0 +1,2 @@
+VN=Vi\u1EC7t Nam,images/vn_flag.jpg,/com/fss/monitor/Monitor_VN_Dictionary.txt
+EN=English,images/en_flag.jpg,/com/fss/monitor/Monitor_EN_Dictionary.txt

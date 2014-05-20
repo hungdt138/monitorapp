@@ -1,0 +1,8 @@
+VN
+	Name==Tiếng Việt
+	Image==images/vn_flag.jpg
+	File==/com/fss/dictionary/ERR_VN_Dictionary.txt
+EN
+	Name==English
+	Image==images/en_flag.jpg
+	File==/com/fss/dictionary/ERR_EN_Dictionary.txt

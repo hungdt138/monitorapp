@@ -1,0 +1,159 @@
+ViewLog==View log
+Delete==Delete
+Close==Close
+Start==Start
+Restart==Restart
+Stop==Stop
+StopDestroy==Destroy
+StopNormal==Normal
+Setting==Setting
+Schedule==Schedule
+StartImmediate==Process
+Kick==Kick
+Refresh==Refresh
+Send==Send
+LoggedUser==Logged user
+NotEncrypt==Do not encrypt
+DialogTableParameter
+	Title==Edit parameter <%p>
+Mnemonic
+	ViewLog==v
+	Delete==D
+	Close==C
+	Start==a
+	Restart==r
+	Stop==o
+	StopDestroy==d
+	StopNormal==n
+	Setting==s
+	Schedule==h
+	StartImmediate==p
+	Kick==k
+	Refresh==f
+	Send==e
+	jmenu
+		System==s
+			Login==i
+			Logout==o
+			ChangePassword==p
+			Shutdown==s
+			ThreadManager==t
+			Exit==x
+		Help==h
+			About==a
+		UI==u
+		Edit
+			SelectAll==a
+			ClearAll==c
+			ClearSelected==s
+jmenu
+	UI==User interface
+	System==System
+		Login==Login
+		Logout==Logout
+		ChangePassword==Change password
+		Shutdown==Stop server
+		ThreadManager==Thread manager
+		Exit==Exit
+	Help==Help
+		About==About
+	Edit
+		SelectAll==Select all
+		ClearAll==Clear all
+		ClearSelected==Clear selected
+ThreadManager
+	Title==Thread manager
+	ThreadList==Thread list
+	ThreadName==Thread name
+	ThreadClass==Class name
+	StartupType==Startup type
+	Parameter==Parameter
+	Value==Value
+	ParameterList==Parameter list
+	LoginName==Login name
+	LoginTime==Login time
+	Host==Host
+	ConfirmKick==Do you really want to kick this user?
+DialogLogin
+	Title==System login
+	LoginName==Login Name
+	Password==Password
+	Host==Host
+	Port==Port
+	EncryptAlgorithm==Encryption
+	Language==Language
+DialogChangePassword
+	Title==Change password
+	UserName==Login name
+	OldPassword==Old password
+	NewPassword==New password
+	ConfirmPassword==Confirm password
+	EncryptAlgorithm==Encryption
+	SuccessMessage==Password changed succesfully
+DialogSchedule
+	Title==Thread schedule
+	ID==ID
+	Description==Description
+	NextExecution==Next execution date
+	ExecutionCount==Execution count
+	ExecutionTime==Perform
+	TimePerDay==times per day
+	AdditionValue==Perform every
+	Day==day
+	Week==week
+	Month==month
+	Year==year
+	StartTime==Start time
+	EndTime==End time
+	ExpectedDate==Expected date
+	ScheduleType==Schedule type
+	AllDay==All
+	Sun==Sunday
+	Mon==Monday
+	Tue==Tuesday
+	Wed==Wednesday
+	Thu==Thursday
+	Fri==Friday
+	Sat==Saturday
+	AllMonth==All
+	Jan==January
+	Feb==February
+	Mar==March
+	Apr==Apirl
+	May==May
+	Jun==June
+	Jul==July
+	Aug==August
+	Sep==September
+	Oct==October
+	Nov==November
+	Dec==December
+	WeekDayTitle==Day in week
+	MonthDayTitle==Day in month
+	YearMonthTitle==Month in year
+	InputTitle==Input value
+	ScheduleTitle==Schedule list
+	AdditionValueMessage==Value of field perform every day (week, month, year) have to greater than zero.
+	NeverRunMessage==Invalid schedule, next execution time never come.
+	NextDateMessage==Are you sure want to start executing on <%p>?
+	WeekDayMessage==You have to choose at least one day in week
+	MonthDayMessage==You have to choose at least one day in month
+	YearMonthMessage==You have to choose at least one month in year
+DialogPartitionSetting
+	Title==Partition setting
+	TableName==Table name
+	PartitionType==Partition type
+DialogConfirmShutdown
+	Title==Confirm give up
+	ConfirmMessage1==An user want to log in to system!
+	ConfirmMessage2==Can you give up your login permission to him/her?
+Status
+	ThreadStarted==Thread started
+	ThreadStopped==Thread stopped
+Confirm
+	Shutdown==Do you really want to kill server?
+	Start==Do you really want to run this thread now?
+	Destroy==Do you really want to destroy the processing this thread?
+DialogLogViewer
+	Title==Log viewer
+	DeleteOK==Do you really want to delete this log file server?

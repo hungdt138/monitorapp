@@ -1,0 +1,58 @@
+GreaterOrEquals==lớn hơn hoặc bằng
+GreaterThan==lớn hơn
+SmallerOrEquals==nhỏ hơn hoặc bằng
+SmallerThan==nhỏ hơn
+Equals==bằng
+All==Tất cả
+Add==Thêm
+AddCopy==Sao chép
+Modify==Sửa
+Remove==Xoá
+Search==Tìm kiếm
+Print==In
+OK==Chấp nhận
+Cancel==Bỏ qua
+Yes==Có
+No==Không
+Exit==Thoát
+ExpandableTextTitle==Nhap noi dung
+Mnemonic
+	Add==m
+	AddCopy==c
+	Modify==s
+	Remove==x
+	Search==k
+	Print==i
+	OK==c
+	Cancel==b
+	Yes==c
+	No==k
+	Exit==t
+Confirm
+	SaveOnExit==Dữ liệu chưa được ghi vào database.\nBạn có muốn ghi trước khi thoát không?
+	Exit==Bạn thực sự muốn thoát khỏi hệ thống?
+PanelControlButton
+	AddWarning==Bạn có thực sự muốn thêm mới bản ghi này vào database không?
+	AddCopyWarning==Bạn có thực sự muốn thêm mới bản ghi giống bản ghi này vào database không?
+	ModifyWarning==Bạn có thực sự muốn sửa bản ghi này không?
+	RemoveWarning==Bạn có thực sự muốn xóa bản ghi này không?
+	SearchWarning==Tìm kiếm với những điều kiện này?
+	PrintWarning==In những bản ghi này?
+VectorTable
+	Copy==Copy
+	ShowAll==Hiện toàn bộ
+	Insert==Thêm dòng
+	Delete==Xóa dòng
+	Show==Hiện cột
+	Hide==Ẩn cột
+	Filter==Lọc
+	Export==Kết xuất
+	FilterTitle==Dieu kien loc
+	ExportTitle==Ket xuat du lieu
+	FileRequiredWarning==Bạn phải chọn một file để lưu dữ liệu.
+	FileName==Tên file
+	ExportType==Loại file
+	Separator==Ngăn cách
+JTableContainer
+	ShowStatus==Hiện thanh trạng thái
+	HideStatus==Ẩn thanh trạng thái

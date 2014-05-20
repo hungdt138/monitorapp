@@ -1,0 +1,35 @@
+{FileNotFoundException}==Không tìm thấy file: <%p>
+{ClassNotFoundException}==Không tìm thấy lớp: <%p>
+{NoSuchMethodException}==Không tìm thấy hàm: <%p>
+{Unspecified}==Lỗi không xác định
+FSS-00001==Bạn phải nhập ít nhất một điều kiện để tìm kiếm
+FSS-00002==Trường <%p> bắt buộc phải nhập liệu
+FSS-00003==Giá trị của trường <%p> phải lớn hơn hoặc bằng giá trị của trường <%p>
+FSS-00004==Giá trị của trường <%p> không hợp lệ, xin kiểm tra lại
+FSS-00005==Không thể thay đổi dữ liệu mặc định của hệ thống
+FSS-00006==Mật khẩu không đúng, kiểm tra lại
+FSS-00007==Mật khẩu xác nhận không trùng với mật khẩu mới
+FSS-00008==Trường <%p> bắt buộc phải là kiểu số
+FSS-00009==Không tìm thấy dữ liệu trong bảng <%p>
+FSS-00010==Nhập trùng bản ghi
+FSS-00011==Bản ghi này đã tồn tại trong database
+FSS-00012==Không tìm thấy dữ liệu <%p> trong database
+FSS-00013==Bạn không được phép truy cập tại thời điểm này
+FSS-00014==Bạn không có quyền <%p> trên chức năng <%p>
+FSS-00015==Bạn không có quyền thực hiện chức năng này tại thời điểm này
+FSS-00016==Người sử dụng này không tồn tại trong hệ thống hoặc đã bị khóa
+FSS-00017==Chức năng này không tồn tại trong hệ thống
+FSS-00018==Sequence <%p> không tồn tại
+FSS-00019==Kết nối đã bị chiếm hết, bạn hãy thử lại sau vài phút nữa
+FSS-00020==Bạn phải đăng nhập vào hệ thống
+FSS-00021==Tiến trình <%p> không tồn tại
+FSS-00022==Địa chỉ IP <%p> không được phép truy cập hệ thống.
+FSS-10003==Mật khẩu của bạn đã quá hạn, bạn cần đổi mật khẩu để có thể sử dụng hệ thống.
+FSS-10012==Mật khẩu không được để trống.
+FSS-10013==Mật khẩu phải chứa tối thiểu <%p> ký tự.
+FSS-10014==Mật khẩu mới không được trùng với mật khẩu cũ.
+FSS-10015==Chức năng bảo mật chưa được thiết lập, chỉ có NSD system được phép đăng nhập hệ thống.
+ORA-00942==Table hay view cần truy xuất không tồn tại
+ORA-02292==Không xóa được bản ghi này. Dữ liệu liên quan đang tồn tại
+ORA-00001==Bản ghi này đã tồn tại trong hệ thống
+ORA-01407==Không được để trống trường bắt buộc phải nhập liệu

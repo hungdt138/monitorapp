@@ -1,0 +1,155 @@
+ViewLog==Xem log
+Delete==Xóa
+Close==Đóng
+Start==Chạy
+Restart==Chạy lại
+Stop==Dừng
+StopDestroy==Hủy
+StopNormal==Bình thường
+Setting==Tham số
+Schedule==Đặt lịch
+StartImmediate==Thực hiện
+Kick==Đẩy ra
+Refresh==Cập nhật
+Send==Gửi
+NotEncrypt==Không mã hóa
+LoggedUser==Người sử dụng
+DialogTableParameter
+	Title==Sua tham so <%p>
+Mnemonic
+	ViewLog==x
+	Delete==x
+	Close==g
+	Start==c
+	Restart==l
+	Stop==d
+	StopDestroy==h
+	StopNormal==b
+	Setting==s
+	Schedule==t
+	StartImmediate==h
+	Kick==r
+	Refresh==n
+	Send==g
+	jmenu
+		System==h
+			Login==n
+			Logout==r
+			ChangePassword==m
+			Shutdown==s
+			ThreadManager==q
+			Exit==t
+		Help==t
+			About==g
+		UI==G
+		Edit
+			SelectAll==c
+			ClearAll==x
+			ClearSelected==t
+jmenu
+	UI==Giao diện
+	System==Hệ thống
+		Login==Đăng nhập hệ thống
+		Logout==Ra khỏi hệ thống
+		ChangePassword==Đổi mật khẩu
+		Shutdown==Đóng server
+		ThreadManager==Quản lý tiến trình
+		Exit==Thoát
+	Help==Trợ giúp
+		About==Giới thiệu
+	Edit
+		SelectAll==Chọn toàn bộ
+		ClearAll==Xóa toàn bộ
+		ClearSelected==Xóa nội dung đã chọn
+ThreadManager
+	Title==Quan ly tien trinh
+	ThreadList==Danh sách tiến trình
+	ThreadName==Tên tiến trình
+	ThreadClass==Lớp xử lý
+	StartupType==Hoạt động
+	Parameter==Tham số
+	Value==Giá trị
+	ParameterList==Danh sách tham số
+	LoginName==Tên truy nhập
+	LoginTime==Giờ đăng nhập
+	Host==Địa chỉ
+	ConfirmKick==Bạn có thực sự muốn đẩy người sử dụng này ra khỏi hệ thống không?
+DialogLogin
+	Title==Dang nhap he thong
+	LoginName==Tên truy nhập
+	Password==Mật khẩu
+	Host==Địa chỉ IP
+	Port==Cổng
+	EncryptAlgorithm==Mã hóa
+	Language==Ngôn ngữ
+DialogChangePassword
+	Title==Doi mat khau
+	UserName==Tên truy nhập
+	OldPassword==Mật khẩu cũ
+	NewPassword==Mật khẩu mới
+	EncryptAlgorithm==Mã hóa
+	ConfirmPassword==Mật khẩu kiểm tra
+	SuccessMessage==Mật khẩu đã được thay đổi thành công
+DialogSchedule
+	Title==Dat lich cho tien trinh
+	ID==Mã
+	Description==Mô tả
+	NextExecution==Ngày thực hiện
+	ExecutionCount==Số lần thực hiện
+	ExecutionTime==Thực hiện
+	TimePerDay==lần trong ngày
+	AdditionValue==Thực hiện hàng
+	Day==ngày
+	Week==Tuần
+	Month==Tháng
+	Year==Năm
+	StartTime==Bắt đầu
+	EndTime==Kết thúc
+	ExpectedDate==Ngày thực hiện
+	ScheduleType==Kiểu lịch
+	AllDay==Tất
+	Sun==Chủ nhật
+	Mon==Thứ hai
+	Tue==Thứ ba
+	Wed==Thứ tư
+	Thu==Thứ năm
+	Fri==Thứ sáu
+	Sat==Thứ bảy
+	AllMonth==Tất
+	Jan==Tháng 1
+	Feb==Tháng 2
+	Mar==Tháng 3
+	Apr==Tháng 4
+	May==Tháng 5
+	Jun==Tháng 6
+	Jul==Tháng 7
+	Aug==Tháng 8
+	Sep==Tháng 9
+	Oct==Tháng 10
+	Nov==Tháng 11
+	Dec==Tháng 12
+	WeekDayTitle==Ngày trong tuần
+	MonthDayTitle==Ngày trong tháng
+	YearMonthTitle==Tháng trong năm
+	InputTitle==Giá trị nhập
+	ScheduleTitle==Danh sách lịch
+	AdditionValueMessage==Giá trị của trường thực hiện hàng ngày (tuần, tháng, năm) phải lớn hơn không.
+	NeverRunMessage==Lịch không hợp lệ, không có ngày nào tiến trình có thể chạy.
+	NextDateMessage==Bạn có muốn bắt đầu chạy chương trình vào ngày <%p> không?
+	WeekDayMessage==Bạn phải nhập ít nhất một ngày trong tuần
+	MonthDayMessage==Bạn phải nhập ít nhất một ngày trong tháng
+	YearMonthMessage==Bạn phải nhập ít nhất một tháng trong năm
+DialogConfirmShutdown
+	Title==Xac nhan nhuong quyen su dung
+	ConfirmMessage1==Có người đang muốn vào hệ thống!
+	ConfirmMessage2==Bạn có sẵn sàng nhường quyền sử dụng không?
+Status
+	ThreadStarted==Tiến trình đang chạy
+	ThreadStopped==Tiến trình đã dừng
+Confirm
+	Shutdown==Bạn có thực sự muốn đóng server?
+	Start==Bạn có thực sự muốn chạy tiến trình ngay lúc này không?
+	Destroy==Bạn có thực sự muốn hủy hoạt động của tiến trình này không?
+DialogLogViewer
+	Title==Xem log
+	DeleteOK==Bạn có thực sự muốn xóa file log này không?

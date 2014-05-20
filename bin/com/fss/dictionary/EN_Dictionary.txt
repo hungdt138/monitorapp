@@ -1,0 +1,58 @@
+GreaterOrEquals==greater or equals to
+GreaterThan==greater than
+SmallerOrEquals==smaller or equals to
+SmallerThan==smaller than
+Equals==equals to
+All==All
+Add==Add
+AddCopy==Copy
+Modify==Modify
+Remove==Remove
+Search==Search
+Print==Print
+OK==OK
+Cancel==Cancel
+Yes==Yes
+No==No
+Exit==Exit
+ExpandableTextTitle==Edit content for text field
+Mnemonic
+	Add==a
+	AddCopy==c
+	Modify==m
+	Remove==r
+	Search==s
+	Print==p
+	OK==o
+	Cancel==c
+	Yes==y
+	No==n
+	Exit==x
+Confirm
+	SaveOnExit==Your data is unsaved.\nDo you want to save it before exit?
+	Exit==Do you really want to exit?
+PanelControlButton
+	AddWarning==Are you really want to insert this record into database?
+	AddCopyWarning==Are you really want to insert a copy this record into database?
+	ModifyWarning==Are you really want to update this record?
+	RemoveWarning==Are you really want to remove these records?
+	SearchWarning==Search with this criteria?
+	PrintWarning==Print these records?
+VectorTable
+	ShowAll==Show all
+	Copy==Copy
+	Insert==Insert row
+	Delete==Delete row
+	Show==Show column
+	Hide==Hide column
+	Filter==Filter
+	Export==Export
+	FilterTitle==Filter criteria
+	ExportTitle==Export data
+	FileRequiredWarning==You have to choose a file to store data.
+	FileName==File name
+	ExportType==File type
+	Separator==Delimited symbol
+JTableContainer
+	ShowStatus==Show status bar
+	HideStatus==Hide status bar
